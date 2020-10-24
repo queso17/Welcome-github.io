@@ -1,0 +1,68 @@
+body {
+	background-color: lightblue;
+}
+.container {
+		text-align: center;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 3em;
+	color: rgba(145, 78, 185, 0.8);
+	border-bottom: 2px solid rgba(145, 78, 185, 0.1);
+	border-right: 2px  solid rgba(145, 78, 185, 0.1);
+	border-left: 2px   solid rgba(145, 78, 185, 0.1);
+	border-top: 2px  solid rgba(145, 78, 185, 0.1);
+	box-shadow: 4px 4px 5px 4px #888888;
+	border-radius: 15px;
+	text-shadow: 4px 4px 5px #888888;
+	font-family: sans-serif;
+
+	
+	
+}
+
+p {
+
+	text-shadow: 4px 4px 5px #888888;
+	color: rgba(145, 78, 185, 0.8);
+	font-size: 25px;
+
+}
+.username {
+	margin-bottom: 3px;
+	border-radius: 15px;
+	border-color: rgba(145, 78, 185, 0.8);
+}
+
+.submit {
+	margin-top: 13px;
+	border-color: rgba(145, 78, 185, 0.8);
+	border-radius: 15px;
+}
+
+hr {
+
+	border-color: rgba(145, 78, 185, 0.8);
+	left: 20px;
+	width: 500px;
+
+}
+
+.signup {
+	text-shadow: 4px 4px 5px #888888;
+	color: rgba(145, 78, 185, 0.8);
+	font-size: 2em;
+}
+
+/*.img {
+
+	position: absolute;
+	top: 125px;
+    left: 590px;
+	max-width: auto;
+	height: auto;
+	display: flex;
+	margin: auto;
+}
